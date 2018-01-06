@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ciao versione locale del file
+=======
+ciao questa è la versione remota
+>>>>>>> 7a50a28cab1b66d2fb36f38268fe8af8f8fbbbbe
